@@ -1,2 +1,2 @@
-# Baby-Name-Trends
-Hold project that analyses American baby name trends using SQL
+# DataCamp Projects
+Holds projects from DataCamp
